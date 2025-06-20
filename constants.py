@@ -1,0 +1,49 @@
+#display size
+DISPLAY_WIDTH = 1280 #40 tiles
+DISPLAY_HEIGHT = 640 #20 tiles
+
+#tilesize
+TILE_SIZE = 32
+
+#button colors
+RED = (239, 71, 111)
+YELLOW = (255, 209, 102)
+GREEN = (6, 214, 160)
+BLUE = (17, 138, 178)
+
+#button primary text color
+START_BUTTON = (255, 180, 198)
+SETTINGS_BUTTON = (255, 241, 210)
+CREDITS_BUTTON = (219, 243, 237)
+EXIT_BUTTON = (160, 214, 231)
+
+#button secondary color
+START_BUTTON_SHADOW = (237, 141, 164)
+SETTINGS_BUTTON_SHADOW = (218, 187, 115)
+CREDITS_BUTTON_SHADOW = (26, 184, 143)
+EXIT_BUTTON_SHADOW = (77, 161, 188)
+
+#player motion
+PLAYER_FRICTION = -0.1
+PLAYER_GRAVITY = 0.3
+PLAYER_ACC = 0.5
+JUMP_HEIGHT = 20
+
+#color RGB
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+LIGHT_GREY = (211, 211, 211)
+SLATE_GREY = (112,128,144)
+DARK_GREY = (65, 68, 83)
+DARKER_GREY = (41, 43, 53)
+HOVER_GREY = (55, 58, 75)
+LIGHT_RED = (239, 71, 111)
+
+#frame rate
+FPS = 60
+
+#layer constants
+LAYER_1 = 1
+LAYER_2 = 2
+LAYER_3 = 3
+LAYER_4 = 4
