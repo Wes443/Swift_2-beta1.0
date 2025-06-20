@@ -1,0 +1,1 @@
+Disclaimer - this font is NOT made by me. The original creator is Roberto Mocci and the font name is Dogica.
